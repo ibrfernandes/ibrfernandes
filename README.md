@@ -9,7 +9,7 @@
 
 - 🌱 E estou aprendendo **Machine Learning**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ibrfernandes/ibrfernandes](https://github.com/ibrfernandes)
+- 👨‍💻 All of my projects are available at [https://github.com/ibrfernandes](https://github.com/ibrfernandes)
 
 - 💬 Ask me about **Python, SQL, Pytorch**
 
